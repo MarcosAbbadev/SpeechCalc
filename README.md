@@ -80,6 +80,6 @@ Resultado: 8.0
 
 ## 👨‍💻 Autor
 
-Marcos
+Marcos Abbade
 
 Estudande de tecnologia
